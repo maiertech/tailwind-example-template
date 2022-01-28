@@ -8,5 +8,5 @@ tasks:
       npm run dev
 vscode:
   extensions:
+    - bradlc.vscode-tailwindcss
     - esbenp.prettier-vscode
-
